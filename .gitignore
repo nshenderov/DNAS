@@ -9,5 +9,7 @@
 !*.hpp
 !.gitignore
 !*Makefile
-
 !*/
+
+.*/
+_*/
